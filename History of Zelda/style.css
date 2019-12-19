@@ -1,0 +1,23 @@
+html{
+    background-image: url(zeldabg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  body{
+  background-color: rgba(255, 255, 255, 0.582);
+  height: 100vh;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  }
+  
+  a{
+    text-decoration: none;
+  color: rgba(0, 0, 0, 0.600);
+  padding: 5px;
+  }
+  a:hover{
+  text-decoration: underline;
+  color: rgb(1, 1, 107)
+  }

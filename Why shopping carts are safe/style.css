@@ -1,0 +1,17 @@
+body{
+
+    background-color: rgb(69, 69, 134);
+    color: rgba(0, 255, 0, 0.705);
+    
+    text-align: center;
+    
+    
+    }
+    img{
+    
+    width: 320px;
+    
+    border: 5px solid rgb(253, 165, 0);
+    
+    
+    }
